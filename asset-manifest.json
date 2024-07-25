@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/COCONUT-WEBSITE/static/css/main.a0387866.css",
-    "main.js": "/COCONUT-WEBSITE/static/js/main.e0974bf9.js",
+    "main.js": "/COCONUT-WEBSITE/static/js/main.d041bbcf.js",
     "static/js/453.d59c8d9d.chunk.js": "/COCONUT-WEBSITE/static/js/453.d59c8d9d.chunk.js",
     "static/media/AboutImg.png": "/COCONUT-WEBSITE/static/media/AboutImg.1eee093c7929c711f46b.png",
     "static/media/slick.svg": "/COCONUT-WEBSITE/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/COCONUT-WEBSITE/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/COCONUT-WEBSITE/index.html",
     "main.a0387866.css.map": "/COCONUT-WEBSITE/static/css/main.a0387866.css.map",
-    "main.e0974bf9.js.map": "/COCONUT-WEBSITE/static/js/main.e0974bf9.js.map",
+    "main.d041bbcf.js.map": "/COCONUT-WEBSITE/static/js/main.d041bbcf.js.map",
     "453.d59c8d9d.chunk.js.map": "/COCONUT-WEBSITE/static/js/453.d59c8d9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0387866.css",
-    "static/js/main.e0974bf9.js"
+    "static/js/main.d041bbcf.js"
   ]
 }
