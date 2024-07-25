@@ -1,0 +1,50 @@
+
+
+.gallery-slider {
+    .slick-dots {
+      bottom: -30px; 
+    }
+  
+    .slick-dots li button::before {
+      color: #333; 
+    }
+  
+    .slick-dots li.slick-active button::before {
+      color: #000; 
+    }
+  
+    .slick-slide {
+      transition: opacity 0.5s ease;
+    }
+  
+    .slick-slide img {
+      transition: transform 0.3s ease;
+    }
+  }
+  
+  .slider-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  
+  .slider-item img {
+    border-radius: 8px;
+  }
+  
+  section#gallery {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f7f7f7; 
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
